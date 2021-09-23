@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Vazir";
+  src: local("Vazir"), url(./Vazir-Regular.woff) format("woff");
+}
+@font-face {
+  font-family: "Nunito";
+  src: local("Nunito"), url(./nunito-v16-latin-regular.woff) format("woff");
+}
+body {
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  padding-bottom: 60px;
+  justify-content: center;
+  direction: rtl;
+  font-family: "Vazir","Nunito";
+
+}

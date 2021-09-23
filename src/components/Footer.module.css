@@ -1,0 +1,14 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #5cdb95;
+  font-family: "Nunito";
+}
+
+.text-muted {
+  font-size: large;
+  font-weight: 500;
+}

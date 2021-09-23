@@ -1,0 +1,12 @@
+.container {
+  padding: 2px;
+  font-family: "Vazir";
+  max-width: 1600px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-flow: row wrap;
+  direction: rtl;
+  padding-top: 5px;
+}
